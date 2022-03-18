@@ -1,0 +1,39 @@
+wrapper:
+
+<h2>Inna strona</h2>
+                        <p>Witam na kolejnej stronie</p> 
+
+
+
+-------------------------
+content:
+      <section>
+
+                            <div class="row">
+                                <div class="col-6 col-12-medium">
+                                    <h4>Lista rzeczy, które możesz zrobić:</h4>
+                                    <ul>
+                                        <li>Zamknąć przeglądarkę</li>
+                                        <li>Wrócić do poprzedniej strony</li>
+                                        <li>???</li>
+                                    </ul>
+
+
+                                </div>
+
+                            </div>
+
+
+                        </section>
+          <section>
+                            <ul class="actions">
+
+                                <li><a href="#" class="button">Default</a></li>
+                            </ul>
+
+
+                        </section>
+-------------------------
+
+footer:
+   <li>Treść stopki</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
